@@ -1,3 +1,3 @@
 <?php 
-echo "heklo";
+echo "hy";
 ?>
